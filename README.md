@@ -13,7 +13,7 @@ Dự án này là một phần của chương trình CDSG-NW22. Mục tiêu củ
 
 ## Giải pháp tự động hóa
 
-Giải pháp tự động hóa được lưu trữ trong thư mục `Automate_N`. Thư mục này bao gồm:
+Giải pháp tự động hóa được lưu trữ trong thư mục `Automate_2`. Thư mục này bao gồm:
 
 * Mã nguồn
 * Tệp cấu hình
