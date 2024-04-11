@@ -4,8 +4,8 @@ Markdown
 ## Thành viên:
 
 * [Nguyễn Quyết Thắng](https://github.com/[Kanzitazu])
-* [Lê Phạm Văn Tiến](https://github.com/[tên GitHub thành viên 2])
-* [Phạm Văn Tuấn](https://github.com/[tên GitHub thành viên 2])
+* [Lê Phạm Văn Tiến](https://github.com/[TienBlack69])
+* [Phạm Văn Tuấn](https://github.com/[tên GitHub thành viên 3])
 
 ## Giới thiệu về dự án
 
